@@ -5,8 +5,9 @@
   "version": "0.0.1",
   "publisher": "zebapy",
   "repository": {
-    "url": ""
+    "url": "https://github.com/zebapy/rename-file-to-symbol"
   },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.99.0"
   },
